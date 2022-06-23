@@ -1,1 +1,1 @@
-This repository will be used for saving practice problems from the Book "Ace the Data Science Interview" by Kevin Huo and Nick Singh. All credit to the authors. 
+For coding interview practice problems. 
